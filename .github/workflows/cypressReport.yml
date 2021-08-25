@@ -11,7 +11,7 @@ on:
 
 jobs:
   cypress-test:
-   name: Run on Chrome 92
+   name: Run on Chrome 83
    runs-on: ubuntu-18.04
    container: cypress/browsers:node12.8.0-chrome92
    steps:
