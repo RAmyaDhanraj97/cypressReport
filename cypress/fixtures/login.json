@@ -1,0 +1,13 @@
+{
+    "USER_NAME":"#USER_ID",
+    "USER_PASSWORD":"#PASSWORD",
+    "SIGN_IN_BUTTON":"#btn_submit",
+    "LOGIN_ERROR_USERNAME":"#USER_ID-error",
+    "LOGIN_ERROR_PASSWORD":"#PASSWORD-error",
+    "INVALID_USERNAME_PASSWORD":"#errorMessage",
+    "FORGOT_PASSWORD":"#forgot_password",
+    "SUCCESS_MESSAGE":"#successMessage",
+    "CHANGE_PASSWORD":"#change_password"
+    
+   
+}

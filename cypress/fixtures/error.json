@@ -1,0 +1,9 @@
+{
+    "LOGIN_ERROR_USERNAME":"Please enter a valid user name.",
+    "LOGIN_ERROR_PASSWORD":"Please enter a valid password.",
+    "INVALID_USERNAME_PASSWORD":"Could not sign in. Please check user ID and password",
+    "SUCCESS_MESSAGE":"If you have entered a valid username, an email will be sent to you with your new password."
+    
+  
+  
+  }

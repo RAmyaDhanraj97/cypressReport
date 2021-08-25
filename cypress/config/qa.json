@@ -1,0 +1,20 @@
+
+{
+    "baseUrl": "http://brd-qaefin6-vm.acsresource.com:8400/fpm/pages/logon.jsp",
+    "testData":"C:/Users/Ramya.dhanraj/FPM/cypress/testdata/test.xlsx",
+    "env": {
+      "appVersion": "4.0.1.6RC",
+      "isUpdateStatusInJIRA": false,
+      "jiraUserName": "ramya.dhanraj@oneadvanced.com",
+      "jiraAPI":"DVoxl8CZUgHiaDAhkbfA61C4",
+      "zephyrAccessKey": "amlyYToxNTAzMTExMyA1ZDI4MTUyYzc2ZDJhZjBjNTI3ZWUyMjUgVVNFUl9ERUZBVUxUX05BTUU",
+      "zephyrSecretKey": "BLes5oBOxRB9Zd4GGGxMlHCt1r703uHmXJQJjBfS-Vc",
+      "projectKey": "FPMII",
+      "versionName": "FPM 4.0",
+      "cycleName": "Automation",
+      "username": "globaluser",
+      "password": "password"
+    }
+  }     
+  
+  
